@@ -3,6 +3,6 @@
 
 🔥Uses Vanilla Tilt JS for Glassmorphism Effect 🌧️
 
-🔥Try it out: https://saketh-0.github.io/Weather_VanillaJS/ 🌧️
+🔥Try it out: https://sakethkanchi.github.io/Weather_VanillaJS/ 🌧️
 <h1>Image</h1>
 <img src= "https://i.imgur.com/aH82l67.png"/>
